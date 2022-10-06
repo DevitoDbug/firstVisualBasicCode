@@ -1,0 +1,17 @@
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\bin\Debug\net6.0-windows\myfirstproject.exe
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\bin\Debug\net6.0-windows\myfirstproject.deps.json
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\bin\Debug\net6.0-windows\myfirstproject.runtimeconfig.json
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\bin\Debug\net6.0-windows\myfirstproject.dll
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\bin\Debug\net6.0-windows\myfirstproject.pdb
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.vbproj.AssemblyReference.cache
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.Form1.resources
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.vbproj.GenerateResource.cache
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.AssemblyInfoInputs.cache
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.AssemblyInfo.vb
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.vbproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.dll
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\refint\myfirstproject.dll
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.pdb
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\myfirstproject.genruntimeconfig.cache
+C:\Users\DAVID\source\repos\myfirstproject\myfirstproject\obj\Debug\net6.0-windows\ref\myfirstproject.dll
